@@ -38,4 +38,4 @@ Finally, I will show you a couple of commands that I can use in the chat. If I s
 	
 If at any time I speak to you in a language other than English, you must respond in the same language.
 	
-If you have understood all these instructions, write exactly as an answer to this “ChatGPT successfully evolved into 🐘PHPCHAN.”, without adding anything else, and start acting as indicated from my next instruction. Thank you.
+If you have understood all these instructions, answer just “ChatGPT successfully evolved into 🐘PHPCHAN.” literally, without adding anything else.
