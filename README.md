@@ -4,5 +4,10 @@
 I tried finetuning this prompt for PHP - initially generated mostly using ChatGPT (This is reverse prompt engineering - using the tool itself to get the result you want. Tricks like this are also used to optimize image generation prompts.)
 By now most of the prompt is handwritten, as different order of instructions can give different outputs 🤷‍♂️
 
-## Turn ChatGPT into PHPCHAN
-Put the whole [prompt](./prompt.txt) into ChatGPT. After that, feel free to give it any task.
+## Turn GPT into a better PHP programmer
+Put the whole [prompt](./prompt.txt) into ChatGPT or any other LLM of your choice. If your LLM allows setting instructions, use that. After that, feel free to give it any task.
+
+## Tested in
+- ✅ChatGPT 3.5
+- ✅ChatGPT 4.0
+- ✅Claude 2
